@@ -52,5 +52,16 @@ For more information, check out [`:class_name`][class_name] and [`:foreign_key`]
 [foreign_key]: http://guides.rubyonrails.org/association_basics.html#options-for-belongs-to-foreign-key
 [StackOverflow]: https://stackoverflow.com/a/41135173
 [SitePoint]: https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/
-
+[Rails Cast]: http://railscasts.com/episodes/250-authentication-from-scratch-revised?autoplay=true
+#250 Authentication from Scratch
+[Devise]: https://github.com/plataformatec/devise
+[Go Rails]: https://gorails.com/episodes/user-authentication-with-devise
+[SitePoint]:https://www.sitepoint.com/devise-authentication-in-depth/
+Devise Authentication in Depth
+https://www.youtube.com/watch?v=X6tKAUOMzCs Railscast Devise and OmniAuth(revised)
+https://www.youtube.com/watch?v=KOnRf1K6Eg8 Simple OmniAuth(revised)
+https://www.youtube.com/watch?v=E_XACDrZSiI Facebook Authentication
+https://www.youtube.com/watch?v=amT27SfNhKM Nested Model Form
+https://confluence.atlassian.com/bitbucket/use-a-git-branch-to-merge-a-file-681902555.html Use Git Branch to Merge File
 <p class='util--hide'>View <a href='https://learn.co/lessons/flatiron-store-project'>Flatiron Store Project</a> on Learn.co and start learning to code for free.</p>
+# flatiron-store-project-v-000

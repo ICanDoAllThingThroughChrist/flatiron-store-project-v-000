@@ -1,0 +1,1 @@
+<li><%= item.title %> | <%= "$#{item.price.to_f/100}" %> | <%= button_to 'Add to Cart', line_items_path(item_id: item) if @user %></li>

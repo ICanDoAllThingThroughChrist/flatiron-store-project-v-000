@@ -27,6 +27,11 @@ RSpec.configure do |config|
     DatabaseCleaner.strategy = :transaction
     DatabaseCleaner.start
     load "#{Rails.root}/db/seeds.rb"
+    #add following into test database seed files
+    #@user = User.new
+    # @user.email = "hello@gmail.com"
+    # @user.password = "xxxxxxxxxxx"
+    # @user.save
   end
 
   config.before(:each, :js => true) do
